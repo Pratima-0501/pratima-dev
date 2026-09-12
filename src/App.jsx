@@ -8,7 +8,7 @@ import Contact from './components/Contact';
 
 export default function App() {
   const [darkMode, setDarkMode] = useState(
-    () => window.matchMedia('(prefers-color-scheme: dark)').matches
+   'dark'
   );
 
   useEffect(() => {
