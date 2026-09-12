@@ -3,10 +3,10 @@ export const personalInfo = {
   role: "Software Engineer",
   tagline: "Architecting scalable systems, performant web applications, and interactive digital interfaces.",
   bio: "Experienced in building full-stack platforms, high-throughput backend services, and modern responsive frontends with an eye for clean design and smooth animations.",
-  email: "your.email@example.com",
+  email: "chauhanpratima144@gmail.com",
   github: "https://github.com",
   linkedin: "https://linkedin.com",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/New_Pratima_Resume.pdf",
 };
 
 export const skills = [

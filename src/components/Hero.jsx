@@ -30,11 +30,12 @@ export default function Hero() {
           </a>
           <a
             href={personalInfo.resumeUrl}
-            target="_blank"
+            download={personalInfo.resumeUrl}
+            //target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition font-medium"
           >
-            <FileText size={18} /> Resume
+            <FileText size={18} />Download Resume
           </a>
         </div>
 

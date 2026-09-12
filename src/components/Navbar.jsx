@@ -9,7 +9,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
     <header className="sticky top-0 z-50 backdrop-blur-md bg-white/80 dark:bg-slate-900/80 border-b border-slate-200 dark:border-slate-800 transition-colors">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <a href="#" className="font-bold text-xl tracking-tight text-slate-900 dark:text-white">
-          Abhishek<span className="text-blue-500">.dev</span>
+          Pratima<span className="text-blue-500">.dev</span>
         </a>
 
         {/* Desktop Navigation */}
